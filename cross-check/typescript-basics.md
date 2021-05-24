@@ -62,7 +62,7 @@ const sum = (a, b) => a + b;
 {
   "compilerOptions": {
     "target": "es2020",
-    "module": "es2020",
+    "module": "CommonJS",
     "allowJs": false,
     "outDir": "./build",
     "rootDir": "./src",
